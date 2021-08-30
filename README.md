@@ -1,5 +1,4 @@
 # git-essentials
 
-## Deployment notes
 
 
